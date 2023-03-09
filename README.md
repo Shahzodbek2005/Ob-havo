@@ -1,0 +1,3 @@
+# Weather
+Ob-havo haqida malumot beruvchi bot 
+To'liq emas ...
